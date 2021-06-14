@@ -1,0 +1,2 @@
+hw_6
+-DCATKIN_DEVEL_PREFIX=/home/dango/dango_file/machine visual/h6_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dango/dango_file/machine visual/h6_ws/install -G Unix Makefiles

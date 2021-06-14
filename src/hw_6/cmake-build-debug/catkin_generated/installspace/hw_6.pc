@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: hw_6
+Description: Description of hw_6
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
